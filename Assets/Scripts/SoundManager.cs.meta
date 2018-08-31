@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c8a2ea9d9518b346a28f7e61460b209
+timeCreated: 1516356086
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - jump: {fileID: 8300000, guid: 88504d5ac087c4e40bf574f0b0f15be0, type: 3}
+  - getCoin: {fileID: 8300000, guid: 63b305f9ac8b82d438ef9af8b1d2eee3, type: 3}
+  - rockSmash: {fileID: 8300000, guid: cc36093f636608b47826a8c6b38fee2a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
